@@ -47,10 +47,6 @@ li a:hover {
   <li><a href="#about">About</a></li>
 </ul>
 
-img {
-  width: 100px; /* Stel de gewenste breedte in */
-  height: 100px; /* Behoud de oorspronkelijke hoogteverhouding */
-}
 
 div {
   background-color: LightGray;
