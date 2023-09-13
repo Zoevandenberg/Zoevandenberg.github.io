@@ -48,8 +48,8 @@ li a:hover {
 </ul>
 
 img {
-  width: 200px; /* Stel de gewenste breedte in */
-  height: auto; /* Behoud de oorspronkelijke hoogteverhouding */
+  width: 100px; /* Stel de gewenste breedte in */
+  height: 100px; /* Behoud de oorspronkelijke hoogteverhouding */
 }
 
 div {
