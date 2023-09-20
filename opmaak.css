@@ -12,7 +12,7 @@ li {
 text-align: center;
 }
 body {
-  background-color: lightgray;
+  background-color: #ccddff;
 }
 ul {
   list-style-type: none;
@@ -36,12 +36,6 @@ li a {
 
 li a:hover {
   background-color: #111;
-}
-
-
-
-div {
-  background-color: #99bbff;
 }
 
 
