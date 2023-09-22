@@ -31,15 +31,15 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-
 li a:hover {
   background-color: powderblue;
 }
-
 body {
   background-color: aliceblue;
 }
-
+h1 {
+  color: cadetblue;
+}
 p {
   color: cadetblue;
 }
