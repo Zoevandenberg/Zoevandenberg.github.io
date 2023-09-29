@@ -55,7 +55,7 @@ h2 {
   color: cadetblue;
 }
 
-footer.content {
+footer {
   background-color: cadetblue; /* achtergrondkleur */
   color: aliceblue; /* tekstkleur */
   padding: 20px; /* Ruimte rondom de inhoud in de footer */
