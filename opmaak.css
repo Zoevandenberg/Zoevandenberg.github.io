@@ -58,6 +58,6 @@ h2 {
 footer {
   background-color: cadetblue; /* achtergrondkleur */
   color: aliceblue; /* tekstkleur */
-  padding: 20px; /* Ruimte rondom de inhoud in de footer */
+  padding: 15px; /* Ruimte rondom de inhoud in de footer */
   text-align: center; /* Tekst gecentreerd in de footer */
 }
