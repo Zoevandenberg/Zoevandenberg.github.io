@@ -56,7 +56,7 @@ h2 {
 }
 
 footer {
-  background-color: cadetblue; /* achtergrondkleur */
+  color: cadetblue; /* kleur */
   padding: 5px; /* Ruimte rondom de inhoud in de footer */
   text-align: center; /* Tekst gecentreerd in de footer */
 }
