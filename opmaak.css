@@ -4,7 +4,6 @@ margin-top: 30px;
 padding: 0;
 overflow: hidden;
 background-color: cadetblue;
-
 }
 
 li {
@@ -12,16 +11,9 @@ li {
 text-align: center;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: cadetblue;
-}
 
 li {
-  float: left;
+  float: left; /*zorgt ervoor dat het er als een menu uit ziet ;)*/
 }
 
 li a {
@@ -34,25 +26,31 @@ li a {
 li a:hover {
   background-color: powderblue; /*dit zorgt voor de kleur tijdens het hoveren*/ 
 }
+
 body {
-  background-color: aliceblue;
+  background-color: aliceblue; /*achtergrondkleur*/
 }
+
 h1 {
   color: cadetblue;
   font-size: 30px;
 }
+
 p {
-  color: cadetblue; /*dit is mijn tekstkleur*/
+  color: cadetblue; /*dit is mijn tekstkleur, dit doe ik ook voor h1 en h2*/
 }
+
 p {
-  font-size: 18px;
+  font-size: 18px; /*tekstgrootte*/
 }
+
 #para1 {
   border: 3px solid cadetblue;
   border-radius: 8px;
   padding: 5px;
   margin-top: 0;
-}
+} /*dit zorgt voor borders in mijn tekst! ik verwijs naar para1 in mijn html codes*/
+
 h2 {
   color: cadetblue;
 }
@@ -60,7 +58,7 @@ h2 {
 footer {
   color: cadetblue;
   text-align: center;
-}
+} /*alle instellingen voor de footer*/
 
 ol {
   color: cadetblue;
