@@ -62,6 +62,7 @@ footer {
 
 ol {
   color: cadetblue;
+  font-size: 18px;
   margin-left: 20px; /* Voeg wat ruimte toe aan de linkerkant van de lijst */
   padding-left: 0; /* Verwijder standaard linkerruimte van de lijst */
 }
