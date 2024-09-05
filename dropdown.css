@@ -30,7 +30,7 @@
   }
   
   .second-level-menu > li {
-    position: absolute;
+    position: relative;
     height: 30px;
     background: #999999;
   }
