@@ -102,7 +102,7 @@ ol {
 }
 
 .second-level-menu > li {
-  position: relative;
+  position: absolute;
   height: 30px;
   background: #999999;
 }
