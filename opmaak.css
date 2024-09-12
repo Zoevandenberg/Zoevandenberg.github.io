@@ -74,7 +74,7 @@ ul {
   {
       position: absolute;
       top: 0;
-      right: -150px;
+      right: 150px;
       width: 150px;
       list-style: none;
       padding: 0;
