@@ -143,7 +143,7 @@ ul {
       padding: 0 0 0 10px;
   
       /* Make the link cover the entire list item-container */
-      display: none;
+      display: block;
       line-height: 30px;
   }
   .top-level-menu a:hover { color: #000000; }
