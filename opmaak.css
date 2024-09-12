@@ -118,7 +118,7 @@ ul {
   
   .top-level-menu > li
   {
-      position: relative;
+      position: absolute;
       float: left;
       height: 30px;
       width: 150px;
