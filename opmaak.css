@@ -86,9 +86,9 @@ ul {
   .third-level-menu > li
   {
       height: 30px;
-      background: #999999;
+      background: powderblue;
   }
-  .third-level-menu > li:hover { background: #CCCCCC; }
+  .third-level-menu > li:hover { background: powderblue; }
   
   .second-level-menu
   {
@@ -106,7 +106,7 @@ ul {
   {
       position: relative;
       height: 30px;
-      background: #999999;
+      background: powderblue;
   }
   .second-level-menu > li:hover { background: #CCCCCC; }
   
@@ -123,7 +123,7 @@ ul {
       float: left;
       height: 30px;
       width: 300px;
-      background: #999999;
+      background: powderblue;
   }
   .top-level-menu > li:hover { background: #CCCCCC; }
   
@@ -138,7 +138,7 @@ ul {
   
   .top-level-menu a /* Apply to all links inside the multi-level menu */
   {
-      font: bold 14px Arial, Helvetica, sans-serif;
+      font:  14px helvetica ;
       color: #FFFFFF;
       text-decoration: none;
       padding: 0 0 0 10px;
