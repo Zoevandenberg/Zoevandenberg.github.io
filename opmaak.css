@@ -86,9 +86,9 @@ ul {
   .third-level-menu > li
   {
       height: 30px;
-      background: powderblue;
+      background: cadetblue;
   }
-  .third-level-menu > li:hover { background: powderblue; }
+  .third-level-menu > li:hover { background: cadetblue; }
   
   .second-level-menu
   {
@@ -105,9 +105,9 @@ ul {
   {
       position: relative;
       height: 30px;
-      background: powderblue;
+      background: cadetblue;
   }
-  .second-level-menu > li:hover { background: #CCCCCC; }
+  .second-level-menu > li:hover { background: cadetblue; }
   
   .top-level-menu
   {
@@ -122,9 +122,9 @@ ul {
       float: left;
       height: 30px;
       width: 300px;
-      background: powderblue;
+      background: cadetblue;
   }
-  .top-level-menu > li:hover { background: #CCCCCC; }
+  .top-level-menu > li:hover { background: cadetblue; }
   
   .top-level-menu li:hover > ul
   {
@@ -137,8 +137,8 @@ ul {
   
   .top-level-menu a /* Apply to all links inside the multi-level menu */
   {
-      font:  14px helvetica ;
-      color: #FFFFFF;
+      font:  16px times ;
+      color: white;
       text-decoration: none;
       padding: 0 0 0 10px;
   
@@ -146,6 +146,6 @@ ul {
       display: block;
       line-height: 30px;
   }
-  .top-level-menu a:hover { color: #000000; }
+  .top-level-menu a:hover { color: white; }
   
   
